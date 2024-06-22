@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="ashwini_bandi">Ashwini Bandi</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="my_phone_number">111 423 123233</string>
+    <string name="twitter_handle">\@gentil__pinto</string>
+    <string name="my_email">gentil.pinto.dev@gmail.com</string>
+    <string name="my_name">Ashwini Bandi</string>
+    <string name="my_title">Android Developer</string>
+</resources>
